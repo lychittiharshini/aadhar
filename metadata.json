@@ -1,0 +1,6 @@
+{
+  "name": "Aadhaar PrintMate",
+  "description": "Professional desktop print tool for Xerox shops to arrange front and back Aadhaar photos side-by-side with exact standard card dimensions for instant PDF printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
