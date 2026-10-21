@@ -26,7 +26,7 @@ const initialSettings: PrintSettings = {
   paperFormat: 'strip',
   alignment: 'top',
   cardGapMm: 8,
-  showCuttingGuide: true,
+  showCuttingGuide: false,
   guideStyle: 'dashed',
   addBorderStroke: true,
   enhanceTextClarity: true,
